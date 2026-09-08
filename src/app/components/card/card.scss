@@ -1,0 +1,17 @@
+.card {
+  border: 2px solid #333;
+  border-radius: 12px;
+  overflow: hidden;
+  width: 150px;
+  text-align: center;
+
+  .card-img {
+    background: #ddd;
+    padding: 2rem 0;
+    border-bottom: 2px solid #333;
+  }
+
+  p {
+    padding: 0.5rem;
+  }
+}
